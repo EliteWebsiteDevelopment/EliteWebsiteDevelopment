@@ -4281,8 +4281,8 @@ blockquote {
 
 	.hero-text {
 		text-align: center;
-		font-size: 4rem;
-		line-height: 6rem;
+		font-size: 3rem !important;
+		line-height: 6rem !important;
 	}
 
 	.brands-wrapper,
